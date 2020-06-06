@@ -1,0 +1,10 @@
+Sample automated flows (with accompanying blog post)
+====================================================
+- ### [Send Email from Dynamics 365/CDS with Attachment from Notes Using Flow](http://linnzawwin.blogspot.com/2020/05/send-email-from-dynamics-365cds-with.html)
+  - [SendEmailwithEntityAttachmentfromNotes_20200505112452.zip](https://github.com/LinnZawWin/PowerAutomate/raw/master/Automated%20flows/SendEmailwithEntityAttachmentfromNotes_20200505112452.zip)
+- ### [Upload SharePoint Documents for Dynamics 365/CDS Records Using Flow](http://linnzawwin.blogspot.com/2020/04/upload-sharepoint-documents-for.html)
+  - [UploadDocumentsbyAccountNumber_20200427054906.zip](https://github.com/LinnZawWin/PowerAutomate/raw/master/Automated%20flows/UploadDocumentsbyAccountNumber_20200427054906.zip)
+- ### [[Power Automate] Find out how to include a link to the record (Record URL) when sending an email from Dynamics 365/CDS using flow](http://linnzawwin.blogspot.com/2020/01/power-automate-find-out-how-to-include.html)
+  - [SendEmailNotificationtoAccountOwner_20200126122638.zip](https://github.com/LinnZawWin/PowerAutomate/raw/master/Automated%20flows/SendEmailNotificationtoAccountOwner_20200126122638.zip)
+- ### [[Power Automate] List Records - Use Expand Query to Retrieve Related Data in flow](http://linnzawwin.blogspot.com/2019/12/power-automate-list-records-use-expand.html)
+  - [ListRecords-AddExpandQuerytoRetrieveRelatedData_20191212194843.zip](https://github.com/LinnZawWin/PowerAutomate/raw/master/Automated%20flows/ListRecords-AddExpandQuerytoRetrieveRelatedData_20191212194843.zip)
