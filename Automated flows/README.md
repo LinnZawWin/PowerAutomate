@@ -1,5 +1,7 @@
 Sample automated flows (with accompanying blog post)
 ====================================================
+- ### [Send Email to Unresolved Recipients in Dynamics 365 using Power Automate](http://linnzawwin.blogspot.com/2020/06/send-email-to-unresolved-recipients-in.html)
+  - [SendEmailtoAllEmailAddressesofContact_20200612012933.zip](https://github.com/LinnZawWin/PowerAutomate/raw/master/Automated%20flows/SendEmailtoAllEmailAddressesofContact_20200612012933.zip)
 - ### [Send Email from Dynamics 365/CDS with Attachment from Notes Using Flow](http://linnzawwin.blogspot.com/2020/05/send-email-from-dynamics-365cds-with.html)
   - [SendEmailwithEntityAttachmentfromNotes_20200505112452.zip](https://github.com/LinnZawWin/PowerAutomate/raw/master/Automated%20flows/SendEmailwithEntityAttachmentfromNotes_20200505112452.zip)
 - ### [Upload SharePoint Documents for Dynamics 365/CDS Records Using Flow](http://linnzawwin.blogspot.com/2020/04/upload-sharepoint-documents-for.html)
