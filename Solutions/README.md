@@ -5,3 +5,6 @@ Power Automate solutions (with accompanying blog post)
 
 - ### [Get Flow Run by Using Dynamics 365/CDS Record ID as Parameter in Power Automate](https://linnzawwin.blogspot.com/2020/08/get-flow-run-by-using-dynamics-365cds.html)
   - [GetFlowRunsofaRecord_1_0_0_0.zip](https://github.com/LinnZawWin/PowerAutomate/raw/master/Solutions/GetFlowRunsofaRecord_1_0_0_0.zip)
+
+- ### [Move Attachment from File Field of CDS to SharePoint in Power Automate](https://linnzawwin.blogspot.com/2020/09/move-attachment-from-file-field-of.html)
+  - [FileUpload_1_0_0_0.zip](https://github.com/LinnZawWin/PowerAutomate/raw/master/Solutions/FileUpload_1_0_0_0.zip)
