@@ -8,3 +8,6 @@ Power Automate solutions (with accompanying blog post)
 
 - ### [Move Attachment from File Field of CDS to SharePoint in Power Automate](https://linnzawwin.blogspot.com/2020/09/move-attachment-from-file-field-of.html)
   - [FileUpload_1_0_0_0.zip](https://github.com/LinnZawWin/PowerAutomate/raw/master/Solutions/FileUpload_1_0_0_0.zip)
+
+- ### [SharePoint Document Upload in Dynamics 365/CDS with Custom Field](https://linnzawwin.blogspot.com/2020/09/sharepoint-document-upload-in-dynamics.html)
+  - [FileUploadWithRemarks_1_0_1_0.zip](https://github.com/LinnZawWin/PowerAutomate/raw/master/Solutions/FileUploadWithRemarks_1_0_1_0.zip)
