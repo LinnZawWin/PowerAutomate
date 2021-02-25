@@ -11,3 +11,6 @@ Power Automate solutions (with accompanying blog post)
 
 - ### [SharePoint Document Upload in Dynamics 365/CDS with Custom Field](https://linnzawwin.blogspot.com/2020/09/sharepoint-document-upload-in-dynamics.html)
   - [FileUploadWithRemarks_1_0_1_0.zip](https://github.com/LinnZawWin/PowerAutomate/raw/master/Solutions/FileUploadWithRemarks_1_0_1_0.zip)
+
+- ### [Approval process using Adaptive Cards with Dataverse connector in Power Automate](https://scottishsummit.com/)
+  - [ApprovalEngine_1_0_0_0.zip](https://github.com/LinnZawWin/PowerAutomate/raw/master/Solutions/ApprovalEngine_1_0_0_0.zip)
